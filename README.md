@@ -1,4 +1,4 @@
-## Hi there 👋,
+## Hi there 👋
 I'm Claudio Cama, a Data Engineer, a Youtuber (not really) and a Wannabe Startupper!
 
 
